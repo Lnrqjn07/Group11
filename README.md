@@ -1,7 +1,6 @@
 # Group11
-# TITLE
 
-Mental Health Matters: Your Personalized Guide to Well-Being
+# Mental Health Matters: Your Personalized Guide to Well-Being
 
 ![Black Minimalist Website Mockup Instagram Post](https://github.com/Lnrqjn07/Group11/assets/140863836/17c7ba61-e412-47a1-9553-0abed0558658)
 
@@ -75,9 +74,9 @@ It include Timers to measure specific time intervals.
 
 • Quijano, Leonor F.
 
-• Setcharon, O. Angelyza
+• Setcharon, Angelyza O.
 
-• Catan O. Rosario O.
+• Catan, Rosario O.
 
 • Cruz, Shenna mae B. 
 
