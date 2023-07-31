@@ -11,7 +11,7 @@ Acknowledging the importance of professional support, this application provides 
 
 Mental Health Matters is a comprehensive and personalized guide to well-being, designed to support individuals in their journey towards better mental health. The app aims to provide users with a range of tools, resources, and support to help them manage their mental health, build resilience, and improve overall well-being. Whether someone is facing specific mental health challenges or simply wants to maintain a healthy mind, this app offers tailored solutions for each user.
 
-# REQUIRMENTS
+# REQUIREMENTS
 
 • Pixel 2 API 24
 
